@@ -1,0 +1,1 @@
+checks postal codes to see if they are up to standard or will be rejected by the post office. Takes a list of line separated addresses as the input with tabs between the address, city, state, and zip of each address
